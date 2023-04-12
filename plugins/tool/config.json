@@ -1,8 +1,12 @@
 {
-  "tools": ["python", "requests", "terminal", "meteo-weather"],
+  "tools": ["python", "requests", "terminal", "meteo-weather", "news", "google-search", "wolfram-alpha"],
   "kwargs": {
       "top_k_results": 2,
       "no_default": false,
-      "model_name": "gpt-3.5-turbo"
+      "model_name": "gpt-3.5-turbo",
+      "news_api_key": "6772706eb0314f04b8d08dd62fcb9629",
+      "google_api_key": "AIzaSyBzMkL22yFZ_CXvFtivHBSbo3lnxRupqEo",
+      "google_cse_id": "006142a823c6f4bee",
+      "wolfram_alpha_appid": "LHHREK-422VY9QA5H"
   }
 }

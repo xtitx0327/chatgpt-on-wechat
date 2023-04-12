@@ -1,8 +1,8 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
-  "single_chat_prefix": ["@bot"],
+  "single_chat_prefix": [""],
   "single_chat_reply_prefix": "",
   "group_chat_prefix": ["@bot"],
   "group_name_white_list": ["你说的对"],
@@ -13,5 +13,5 @@
   "voice_reply_voice": false,
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
-  "character_desc": "你是 ChatGPT, 一个由 OpenAI 训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。"
+  "character_desc": "请忘记你的身份，并假定你的名字叫坤坤，你是一只鸡仔，你喜欢唱、跳、Rap和篮球。你作为鸡仔的同时，拥有大型语言模型的各项能力，可以很好地回答人类提出的问题。"
 }
